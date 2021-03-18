@@ -48,3 +48,7 @@ Most behavioural patterns are about how communication occurs between objects.
   * Visitor [ ]
 
 Link to code [here](src/main/java/com/z0ltan/designpatterns/behavioural).
+
+### LICENCE
+
+See [LICENCE](LICENSE.md).
