@@ -10,9 +10,9 @@ classes or have intimate knowledge of implementation details ourselves, for the 
 
   * Abstract Factory [  ]
   * Builder [  ]
-  * Factory [  ]
-  * Prototype [ ]
-  * Singleton [ ]
+  * Factory [x]
+  * Prototype [x]
+  * Singleton [x]
 
 Link to code [here](src/main/java/com/z0ltan/designpatterns/creational).
 
