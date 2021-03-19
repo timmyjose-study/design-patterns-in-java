@@ -41,7 +41,7 @@ Most behavioural patterns are about how communication occurs between objects.
   * Iterator [x]
   * Mediator [ ]
   * Memento [ ]
-  * Observer []
+  * Observer [x]
   * State [ ]
   * Strategy[ ]
   * Template method[ ]
