@@ -8,8 +8,8 @@ are kept as simple as possible, and the ideas themselves are a mixture of orgina
 These are the patterns that are useful in creating new objects/entities. The advantage is that these patterns allow us to create objects without having to handle the concrete
 classes or have intimate knowledge of implementation details ourselves, for the most part.
 
-  * Abstract Factory [  ]
-  * Builder [  ]
+  * Abstract Factory [x]
+  * Builder [x]
   * Factory [x]
   * Prototype [x]
   * Singleton [x]
@@ -40,7 +40,7 @@ Most behavioural patterns are about how communication occurs between objects.
   * Interpreter [ ]
   * Iterator [ ]
   * Mediator [ ]
-  * Mememto [ ]
+  * Memento [ ]
   * Observer [ ]
   * State [ ]
   * Strategy[ ]
