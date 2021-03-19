@@ -1,7 +1,7 @@
 ## Design Patterns in Java
 
 This repository contains implementations of the original 23 design patterns (as listed out in the Gang of Four book), in Java, as a sort of *aide memoire*. As such, the examples
-are kept as simple as possible, and the ideas themselves are a mixture of orginal as well as from sundry sources.
+are kept as simple as possible, and the ideas themselves are a mixture of orginal as well as from sundry sources (tutorialspoint, wikipedia et al).
 
 ### Creational
 
@@ -21,7 +21,7 @@ Link to code [here](src/main/java/com/z0ltan/designpatterns/creational).
 
 Structural patterns concern themselves with class and object composition. Prodigious use of inheritance and aggregation is used in order to effect these patterns.
 
-  * Adapter [ ]
+  * Adapter [x]
   * Bridge [ ]
   * Composite [ ]
   * Decorator [ ]
@@ -36,16 +36,16 @@ Link to code [here](src/main/java/com/z0ltan/designpatterns/structural).
 Most behavioural patterns are about how communication occurs between objects.
 
   * Chain of Responsibility[ ]
-  * Command [ ]
-  * Interpreter [ ]
-  * Iterator [ ]
+  * Command [x]
+  * Interpreter []
+  * Iterator [x]
   * Mediator [ ]
   * Memento [ ]
-  * Observer [ ]
+  * Observer []
   * State [ ]
   * Strategy[ ]
   * Template method[ ]
-  * Visitor [ ]
+  * Visitor [x]
 
 Link to code [here](src/main/java/com/z0ltan/designpatterns/behavioural).
 
