@@ -26,7 +26,7 @@ Structural patterns concern themselves with class and object composition. Prodig
   * Composite [ ]
   * Decorator [ ]
   * Facade [ ]
-  * Flyweight [ ]
+  * Flyweight [x]
   * Proxy [ ]
 
 Link to code [here](src/main/java/com/z0ltan/designpatterns/structural).
